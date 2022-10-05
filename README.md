@@ -23,7 +23,6 @@
 <img src ="https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=flat-square&logo=Webpack&logoColor=white"/>
 <img src ="https://img.shields.io/badge/React Query-FF4154.svg?&style=flat-square&logo=React Query&logoColor=white"/>
 <img src="https://img.shields.io/badge/StyledComponents/Emotion-DB7093?style=flat-square&logo=Styled-components&logoColor=white"/><br/>
-<img src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
 
